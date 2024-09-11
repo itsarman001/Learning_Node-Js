@@ -1,0 +1,22 @@
+{
+  "name": "learning_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-detect-module index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "Learning_Node-Js",
+    "url": "https://github.com/itsarman001/Learning_Node-Js.git"
+  },
+  "author": "ARMAN",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0",
+    "lodash": "^4.17.21",
+    "prompt-sync": "^4.2.0"
+  }
+}
